@@ -17,4 +17,5 @@ Colloquially, the steps of the exercise are as follows:
 9. If you found some hidden implicit goals, incorporate them.
 10. Scrutinize the actions that you've provided as means to obtaining your goals. Try to find better, cheaper, more effective means of achieving the same objectives.
 11. Test your current plans against reality via mental "red-team" exercises.
-12. If you've done everything right, you shouldn't even need to *do* anything with the insights you've obtained. Their self-evident power will just change your behavior under the surface.
+12. If you've done everything right, you shouldn't even need to *do* anything with the insights you've obtained. Their self-evident power will just change your behavior under the surface. However ...
+13. You can turn your plans into Trigger-Action-Plans at this point.
