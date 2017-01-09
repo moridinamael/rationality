@@ -20,14 +20,19 @@ aa(lp9
 S'Raise good happy children.'
 p10
 a(lp11
-I11
+I3
+aI4
+aI7
 aa(lp12
 I4
 aaa(lp13
 S'Have a good happy marriage.'
 p14
 a(lp15
-I11
+I2
+aI6
+aI9
+aI10
 aa(lp16
 I3
 aaa(lp17
@@ -95,9 +100,4 @@ a(lp43
 a(lp44
 I5
 aI6
-aaa(lp45
-S'Deadlift 500 pounds.'
-p46
-a(lp47
-a(lp48
-aa.
+aaa.
