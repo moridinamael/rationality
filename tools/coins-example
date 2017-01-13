@@ -1,0 +1,6 @@
+digraph G {
+  graph [ dpi = 300 bgcolor="transparent" rankdir="LR"];
+  f_coina [ shape="ellipse" color="blue"];
+  f_coinb [ shape="ellipse" color="blue"];
+  f_coina -> f_coinb;
+}
